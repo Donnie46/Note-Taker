@@ -1,1 +1,3 @@
-# Note-Taker
+# Note Taker
+
+## Description
